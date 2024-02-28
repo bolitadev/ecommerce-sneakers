@@ -1,0 +1,22 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+input[type="search"] {
+    width: 200px;
+    height: 30px;
+    border: none;
+  }
+  
+  /* Estilos para a etiqueta de placeholder */
+  input[type="search"]::-webkit-input-placeholder {
+    border: none;
+    color: #ccc;
+  }

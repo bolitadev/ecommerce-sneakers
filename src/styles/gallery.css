@@ -1,0 +1,17 @@
+.gallery {
+    padding: 50px;
+    display: flex;
+}
+
+.galleryItem {
+    flex: 1;
+    padding: 50px;
+}
+
+.galleryImg {
+    width: 100%;
+}
+
+ .big {
+    text-align: center;
+}
